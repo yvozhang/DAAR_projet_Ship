@@ -2,7 +2,7 @@
 
 ## Interface de jeu
 
-![Screenshot 2022-11-27 at 16.54.04.png](README%20580175b4e7d54ed180f3f91a8022c383/Screenshot_2022-11-27_at_16.54.04.png)
+![Screenshot 2022-11-27 at 16.54.04.png](README-images/interface.png)
 
 ---
 
@@ -37,7 +37,5 @@ Une fois que les deux joueurs ont créé un total de quatre bateaux, ils peuvent
 ---
 
 ## Remarque
-
-如果您想测试我们的程序，游戏开始前，需要对参与游戏的用户（metamask账户）进行重置，不然后续游戏过程中可能会报错
 
 Si vous voulez tester notre programme, vous devrez réinitialiser l'utilisateur (compte metamask) qui participe au jeu avant le début de la partie, sinon une erreur pourrait être signalée pendant la partie suivante.
